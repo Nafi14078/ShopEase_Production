@@ -1,1 +1,1 @@
-# ShopEase_Production
+# ShopEase-Ecommerce-project
